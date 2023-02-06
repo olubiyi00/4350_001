@@ -1,0 +1,5 @@
+C# and .NET frameworks
+Html and css
+Java
+SQL
+Python
